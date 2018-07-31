@@ -1,3 +1,4 @@
 # mysql_db
 # financial:manager,seller
-# shop:shop
+# shop:Oldshop
+# tshop:SSM+maven
